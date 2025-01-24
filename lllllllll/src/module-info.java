@@ -5,5 +5,9 @@
  * 
  */
 module lllllllll {
-idnirninintingtintingiun	
+    requires java.desktop;
+    requires java.logging;
+    requires java.sql;
+    requires java.xml;
+    
 }
